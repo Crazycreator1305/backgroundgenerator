@@ -1,0 +1,27 @@
+.center {
+ display: block;
+ margin-left: 9000px;
+ margin-right: auto;
+ width: 50%;}
+
+ h2{
+  color: #9481B4;}
+
+ li{ display: inline-block}
+
+ h2:hover { transition: 0.30s;
+  text-align: center;
+ border: 5px solid #4B2D73;
+cursor: crosshair;}
+
+ body{
+  background-image: url(./Photos/Backgroundimage.jpg.avif);
+  background-size: cover;
+ }
+
+ p{
+  border: 5px solid;
+  text-align: center;
+  color: green;
+  border-color: #9481B4;
+ }
